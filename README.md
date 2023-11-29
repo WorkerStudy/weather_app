@@ -1,16 +1,13 @@
-# weather_app
+# Weather_app
+## Погодное приложение
+dart/flutter
+Погодное приложение на основе статистики из openweathermap.org
 
-A new Flutter project.
+![Демонстрируется работа приложения](./assets/ВидДень.png "Демонстрация работы")
+![Демонстрируется работа приложения](./assets/ВидНочь.png "Демонстрация работы")
 
-## Getting Started
+![Демонстрируется работа с вводом данных](./assets/ВводГорода.png "Демонстрация работы")
+### Диаграмма деятельности  
+ Показывает параллельную работу приложения 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Демонстрируется диаграмма](./assets/ДиаграммаДеятельности.png "Демонстрация диаграммы")
